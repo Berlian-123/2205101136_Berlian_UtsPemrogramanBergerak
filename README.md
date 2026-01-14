@@ -33,8 +33,12 @@ Aplikasi ini menerapkan arsitektur **Offline-First** menggunakan Room Database, 
 
  Screenshot
 <img width="1913" height="976" alt="image" src="https://github.com/user-attachments/assets/24f27d5f-bcd7-474b-96d6-cce959fc11ca" />
-
-
+<img width="1905" height="967" alt="image" src="https://github.com/user-attachments/assets/65f1bee9-afe9-4bc0-b642-07f7b58df41d" />
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/378784f5-ed43-40c2-a6f8-908ec36c85f2" />
+<img width="1915" height="976" alt="image" src="https://github.com/user-attachments/assets/5068b98c-2ac6-4ae9-b7af-d1f94af4ca85" />
+<img width="1912" height="967" alt="image" src="https://github.com/user-attachments/assets/2bd6babd-ee78-4f4c-8b79-7b1267af14c4" />
+<img width="1914" height="966" alt="image" src="https://github.com/user-attachments/assets/192cbe3f-6643-4918-9e5b-7d2f5e4de2bd" />
+<img width="1908" height="964" alt="image" src="https://github.com/user-attachments/assets/b16fc0f9-986e-40d4-aeec-d6f403ef5c78" />
 
 
  Cara Menjalankan
