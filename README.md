@@ -52,4 +52,4 @@ Aplikasi ini menerapkan arsitektur **Offline-First** menggunakan Room Database, 
 
 ---
 
-Developed by **[Nama Kamu]** - [NIM Kamu]
+Developed by **[Berlian Nanda Prisilia Nugroho]** - [2205101136]
