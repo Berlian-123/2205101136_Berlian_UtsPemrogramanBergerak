@@ -1,7 +1,7 @@
  LaporBukti (Offline-First Report App)
 
 Aplikasi pelaporan kerusakan fasilitas kampus/umum berbasis Android Native (Jetpack Compose).
-Dibangun sebagai tugas  **Mata Kuliah Pemrograman Mobile**.
+Dibuat sebagai tugas  **Mata Kuliah Pemrograman Bergerak**.
 
 
  Fitur Unggulan
